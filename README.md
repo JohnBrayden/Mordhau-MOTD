@@ -8,4 +8,5 @@ Our Discord:
 ### **Rules**
 * Dont FFa
 * Dont throw weapons
+* Dont use bow
 * Be nice
