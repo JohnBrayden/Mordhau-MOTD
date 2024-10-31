@@ -1,4 +1,4 @@
-# **Royal Duels**
+# **Royal Duels™ - No FFA - Noobs friendly**
 
 <a id="Hyperlink example - Mordhau Discord">https://discord.gg/Nc3FXMS3dK</>
 
