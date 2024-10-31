@@ -1,7 +1,7 @@
 
 # **Royal Duels™ - No FFA - Noobs friendly**
 Our Discord:
-<a id="Hyperlink example - Mordhau Discord">https://discord.gg/Nc3FXMS3dK
+<a id="Hyperlink example - Mordhau Discord">https://discord.gg/Nc3FXMS3dK</a>
 
 
 
