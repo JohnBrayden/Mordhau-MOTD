@@ -1,16 +1,11 @@
+
 # **Royal Duels™ - No FFA - Noobs friendly**
+Our Discord:
+<a id="Hyperlink example - Mordhau Discord">https://discord.gg/Nc3FXMS3dK
 
-<a id="Hyperlink example - Mordhau Discord">https://discord.gg/Nc3FXMS3dK</>
 
-1. Numbered
-2. List
-3. Support
-- Nested
-- Bulleted
-- List
-- Support
 
-**Standalone**
-* Bulleted
-* List
-* Support
+### **Rules**
+* Dont FFa
+* Dont throw weapons
+* Be nice
