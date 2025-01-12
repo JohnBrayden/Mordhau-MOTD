@@ -1,7 +1,7 @@
 
 # **Royal Duels™ - No FFA - Noobs friendly**
 Our Discord:
-<a id="Hyperlink example - Mordhau Discord">https://discord.gg/YU64FbhW5C</a>
+[https://discord.gg/YU64FbhW5C](https://discord.gg/YU64FbhW5C)
 
 
 
@@ -18,4 +18,4 @@ Our Discord:
 * Insults in all forms, including, for example, mild or indirect insults, are strictly prohibited.
 * Rocks, Crossbows, Bear Traps, Toolboxes and Fire & Smoke Bombs are not allowed.
 
-**Do not be aggressive or barbaric during duels, such as attacking too quickly after X+1, or targeting players with low health. Always make sure the other player is ready before starting the duel.**
+**Do not be aggressive or barbar**
