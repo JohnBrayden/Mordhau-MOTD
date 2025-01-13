@@ -1,9 +1,8 @@
-
 # **Royal Duels™ - No FFA - Noobs friendly**
-Our Discord:
-[https://discord.gg/YU64FbhW5C](https://discord.gg/YU64FbhW5C)
 
+![RoyalDules-Logo](https://github.com/user-attachments/assets/9c58ed30-a416-4bca-907b-eaf7c591a352)
 
+Our Discord: <a href="https://discord.gg/YU64FbhW5C">Discord Link</a>
 
 ### **Rules**
 * Do not discriminate against someone's race, religion etc.
