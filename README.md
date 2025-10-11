@@ -1,7 +1,7 @@
 
 ![](https://github.com/user-attachments/assets/9c58ed30-a416-4bca-907b-eaf7c591a352)
 
-<a id="Royal Duels Discord">https://discord.gg/YU64FbhW5C</>
+<a id="Royal Duels Discord">https://discord.gg/YU64FbhW5C
 
 ### **Rules**
 * Do not discriminate against someone's race, religion etc.
