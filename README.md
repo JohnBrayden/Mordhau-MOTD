@@ -1,5 +1,5 @@
 
-![](https://github.com/user-attachments/assets/f991ccc4-c825-40fe-9ce1-da017091b08e)
+![](https://github.com/user-attachments/assets/2c44de5e-b28c-4491-9da8-fab7b8c1f392)
 
 <a id="Royal Duels Discord">https://discord.gg/uKPpaEzXZP</>
 
